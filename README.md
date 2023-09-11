@@ -16,7 +16,7 @@ We recommend the following configurations:
 ## Model Training  
 - Download the content dataset: [MS-COCO](https://cocodataset.org/#download).
 - Download the style dataset: [WikiArt](https://www.kaggle.com/c/painter-by-numbers).
-- Download the pre-trained [VGG-19](https://drive.google.com/file/d/11uddn7sfe8DurHMXa0_tPZkZtYmumRNH/view?usp=sharing) model.
+- Download the pre-trained [VGG-19](https://drive.google.com/file/d/1r3T-oA7yN-pLT-M-DpQ2XO_-Y2bbJ92e/view?usp=sharing) model.
 - Run the following command:
 ```
 python train.py --content_dir /data/train2014 --style_dir /data/WikiArt/train
