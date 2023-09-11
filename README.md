@@ -36,3 +36,6 @@ We provide the pre-trained model in [link](https://drive.google.com/file/d/1r3T-
 We compare our model with some existing artistic style transfer methods, including [AdaIN](https://github.com/naoto0804/pytorch-AdaIN), [WCT](https://github.com/eridgd/WCT-TF), [Avatar-Net](https://github.com/LucasSheng/avatar-net), [SANet](https://github.com/GlebBrykin/SANET), [ArtFlow](https://github.com/pkuanjie/ArtFlow), [IEST](https://github.com/HalbertCH/IEContraAST), [AdaAttN](https://github.com/Huage001/AdaAttN), and [StyTr<sup>2](https://github.com/diyiiyiii/StyTR-2).  
 
 ![image](https://github.com/HalbertCH/TSSAT/blob/main/figures/comparison.jpg) 
+
+ ## Acknowledgments
+The code in this repository is based on [SANet](https://github.com/GlebBrykin/SANET). Thanks for both their paper and code.
