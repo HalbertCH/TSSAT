@@ -23,7 +23,7 @@ python train.py --content_dir /data/train2014 --style_dir /data/WikiArt/train
 ```
 
 ## Model Testing
-- Put your trained model to *./model/* folder.
+- Put your trained model to *model/* folder.
 - Put some sample photographs to *content/* folder.
 - Put some artistic style images to *style/* folder.
 - Run the following command:
