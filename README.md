@@ -38,4 +38,4 @@ We compare our model with some existing artistic style transfer methods, includi
 ![image](https://github.com/HalbertCH/TSSAT/blob/main/figures/comparison.jpg) 
 
  ## Acknowledgments
-The code in this repository is based on [SANet](https://github.com/GlebBrykin/SANET). Thanks for both their paper and code.
+We refer to some codes from [AdaIN](https://github.com/naoto0804/pytorch-AdaIN). Thanks for both their paper and code.
